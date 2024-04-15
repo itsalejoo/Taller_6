@@ -16,3 +16,4 @@ plt.xlabel("x")
 plt.ylabel("seno de x")
 plt.grid(True)
 plt.show() 
+#
